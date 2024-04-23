@@ -34,7 +34,7 @@ map.html
     </head>
     <body>
         <h1 align="center">NELLORE</h1>
-        <h2 align="center">RAGALA SAI VIVEK(212223230163)</h2>
+        <h2 align="center">TIMMAPURAM YOGEESWAR(212223230233)</h2>
         <center>
             <img src="Screenshot 2024-03-21 142007.png" usemap="#image-map">
 
